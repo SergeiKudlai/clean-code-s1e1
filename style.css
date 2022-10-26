@@ -14,7 +14,8 @@ li {
   list-style: none;
 }
 
-input, button {
+input,
+button {
   outline: none;
 }
 
@@ -29,7 +30,7 @@ input, button {
   width: 100%;
 }
 
-.header .header__link {
+.header__link {
   font-family: fantasy, cursive;
 }
 
@@ -155,7 +156,8 @@ input, button {
 
 /* Completed */
 .completed__name {
-  text-decoration: line-through; color: #888;
+  text-decoration: line-through;
+  color: #888;
 }
 
 /* Edit Task */
