@@ -38,7 +38,7 @@ input, button {
   .header {
     text-align: center;
   }
-  
+
 }
 
 .tasks {
@@ -50,7 +50,7 @@ input, button {
 .add__input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .tasks__inner {
@@ -140,7 +140,7 @@ input, button {
 }
 
 .text {
-  width: 226px
+  width: 226px;
 }
 
 .btn-remove__img {
@@ -155,17 +155,17 @@ input, button {
 
 /* Completed */
 .completed__name {
-  text-decoration: line-through color: #888;
+  text-decoration: line-through; color: #888;
 }
 
 /* Edit Task */
 .text {
-  display: none
+  display: none;
 }
 
 .todo__item--active .text {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .todo__item--active .label {
